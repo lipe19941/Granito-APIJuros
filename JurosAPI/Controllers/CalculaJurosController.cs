@@ -44,7 +44,7 @@ public class CalculaJurosController : ControllerBase
     [HttpGet("/showmethecode")]
     public IActionResult showmethecode()
     {
-            return Ok("https://github.com/lipe19941/APIJuros/");
+            return Ok("https://github.com/lipe19941/Granito-APIJuros/");
 
     }
 
